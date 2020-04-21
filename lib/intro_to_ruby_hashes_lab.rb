@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  my_hash = {"bread" => squishy
+  my_hash = {"bread" => 2.35
   }
   my_hash
 end
